@@ -1,0 +1,2 @@
+# Hola mi nombre es Xavier Simbaña y es mi primer repositorio en Github. 
+# Este repositorio es para la materia de Aplicaciones Distribuidas 
